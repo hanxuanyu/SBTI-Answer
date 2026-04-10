@@ -1,5 +1,5 @@
 ## 来源说明
-- 原始测试地址：https://www.bilibili.com/blackboard/era/VxiCX2CRqcqzPK9F.html
+- 原始测试地址：https://www.bilibili.com/blackboard/era/VxiCX2CRqcqzPK9F.html (原作者本人给的链接已失效，被重定向到了B站首页，原视频评论区作者的链接留言已被删除，可自行搜索其他自部署的测试站，注意甄别钓鱼站点和收集个人信息的站点)
 - 文档生成依据：题目数组、特殊触发题、人格库、模式串、结果匹配逻辑。
 
 ## 作者信息
